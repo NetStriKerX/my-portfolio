@@ -4,11 +4,11 @@ function SkillBox() {
   const skills = [
     {
       name: "communicative",
-      imgUrl: "../../src/Icon/1.png",
+      imgUrl: "../../Icon/1.png",
     },
-    { name: "professional", imgUrl: "../../src/Icon/2.png" },
-    { name: "collaborative", imgUrl: "../../src/Icon/3.png" },
-    { name: "client's favourite", imgUrl: "../../src/Icon/4.png" },
+    { name: "professional", imgUrl: "../../Icon/2.png" },
+    { name: "collaborative", imgUrl: "../../Icon/3.png" },
+    { name: "client's favourite", imgUrl: "../../Icon/4.png" },
   ];
   return (
     <div className="p-28">

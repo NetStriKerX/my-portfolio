@@ -14,7 +14,7 @@ function Portfolio() {
           target="_blank"
         >
           <img
-            src="../../src/img/Robot.png"
+            src="../../img/Robot.png"
             alt="robofriend"
             width="auto"
             height="auto"
@@ -27,7 +27,7 @@ function Portfolio() {
           target="_blank"
         >
           <img
-            src="../../src/img/firstport.png"
+            src="../../img/firstport.png"
             alt="my first web portfolio"
             width="auto"
             height="auto"
@@ -40,7 +40,7 @@ function Portfolio() {
           target="_blank"
         >
           <img
-            src="../../src/img/background-generator.png"
+            src="../../img/background-generator.png"
             alt="background generator"
             width="auto"
             height="auto"
@@ -53,7 +53,7 @@ function Portfolio() {
           target="_blank"
         >
           <img
-            src="../../src/img/landing-page.png"
+            src="../../img/landing-page.png"
             alt="landing page"
             width="auto"
             height="auto"
