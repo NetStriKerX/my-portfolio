@@ -7,14 +7,12 @@ import Footer from "./components/Footer";
 
 function App() {
   return (
-    <div className="App">
-      <div className="w-screen h-full bg-[#FAF4F2]">
-        <Headers />
-        <Profile />
-        <SkillBox />
-        <Portfolio />
-        <Footer />
-      </div>
+    <div className="App w-screen h-full bg-[#FAF4F2]">
+      <Headers />
+      <Profile />
+      <SkillBox />
+      <Portfolio />
+      <Footer />
     </div>
   );
 }
