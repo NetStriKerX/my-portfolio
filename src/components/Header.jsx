@@ -1,4 +1,4 @@
-function Headers(params) {
+function Header() {
   return (
     <header className="text-left  pl-52 py-8 text-white bg-[#FF2950]">
       <h2 className="font-bold text-2xl">My Profile</h2>
@@ -6,4 +6,4 @@ function Headers(params) {
   );
 }
 
-export default Headers;
+export default Header;
