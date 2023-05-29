@@ -4,7 +4,7 @@ function Profile() {
       <div className="w-1/2 py-8 pl-64 pr-4 text-left">
         <h2>Hi!</h2>
         <h2 className="font-bold text-2xl mt-4">I'm Kasawat Chumnirat.</h2>
-        <h2 className="font-bold text-2xl mb-8">a Frontend Developer.</h2>
+        <h2 className="font-bold text-2xl mb-8">a Full-Stack Developer.</h2>
         <p>
           Frontend developer based in bangkok, Thailand. I am coding with a
           clean and beautiful problem solving in mind.
@@ -25,10 +25,7 @@ function Profile() {
           </div>
         </div>
         <div className="flex gap-4">
-          <button className="bg-[#FF2950]">Send Request</button>{" "}
-          <button className="bg-transparent border-[#FF9B70]">
-            Download CV
-          </button>
+          <button className="bg-[#FF2950] text-white">Download CV</button>
         </div>
       </div>
       <div className="w-1/2 flex justify-center items-center p-12">
