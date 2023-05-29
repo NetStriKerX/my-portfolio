@@ -17,7 +17,7 @@ function EachProject() {
     },
     {
       href: "https://main--sensational-hummingbird-892041.netlify.app/",
-      src: "../../public/img/face-detection.png",
+      src: "../../img/face-detection.png",
       name: "face detection",
     },
   ];
