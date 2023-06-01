@@ -31,7 +31,7 @@ function EachProject() {
     <div className="grid gap-4 grid-cols-3 px-36 my-12">
       {projects.map((project, index) => {
         return (
-          <div>
+          <div className="border-2 border-gray-300 rounded-xl">
             <a
               href={project.href}
               className="flex justify-center items-center"
