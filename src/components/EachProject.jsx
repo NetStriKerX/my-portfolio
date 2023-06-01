@@ -1,6 +1,16 @@
 function EachProject() {
   const projects = [
     {
+      href: "https://home-service-app.vercel.app/",
+      src: "../../img/Home-Service.png",
+      name: "Home Service",
+    },
+    {
+      href: "https://main--sensational-hummingbird-892041.netlify.app/",
+      src: "../../img/face-detection.png",
+      name: "face detection",
+    },
+    {
       href: "https://netstrikerx.github.io/robofriends/",
       src: "../../img/Robot.png",
       name: "robofriend",
@@ -14,11 +24,6 @@ function EachProject() {
       href: "https://netstrikerx.github.io/background-generator/",
       src: "../../img/background-generator.png",
       name: "background generator",
-    },
-    {
-      href: "https://main--sensational-hummingbird-892041.netlify.app/",
-      src: "../../img/face-detection.png",
-      name: "face detection",
     },
   ];
 
