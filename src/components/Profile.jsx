@@ -1,7 +1,7 @@
 function Profile() {
   return (
-    <div className="flex justify-center items-center px-24">
-      <div className="w-1/2 py-8 pl-64 pr-4 text-left">
+    <div className="flex justify-center items-center px-[10%]">
+      <div className="w-1/2 py-8 pl-[15%] pr-4 text-left">
         <h2>Hi!</h2>
         <h2 className="font-bold text-2xl mt-4">I'm Kasawat Chumnirat.</h2>
         <h2 className="font-bold text-2xl mb-8">a Full-Stack Developer.</h2>
